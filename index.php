@@ -32,7 +32,7 @@ if ($_FILES) {
             echo basename($stat['name']) . "<br>";
         }
         echo "<p>";
-        echo 'File <b>'. $name .'</b> Telah tersimpan, upload file kembali <a href="https://utsrizaluardisisbar.herokuapp.com"> Reload</a>';
+        echo 'File <b>'. $name .'</b> Telah tersimpan, upload file kembali <a href="https://utsanisarosalina.herokuapp.com/"> Reload</a>';
         $zip->close();
     } 
 }
