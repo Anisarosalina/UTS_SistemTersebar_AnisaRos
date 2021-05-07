@@ -7,9 +7,9 @@
         color: #C1C3C6
       }
     </style>
+<center>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
-<center>
 <h4>Upload Zip lalu klik upload</h4>
 <form method='post' action='' name='koneksi' enctype='multipart/form-data'>
  <input type='file' name='zip' value='pilih file'><br/>
