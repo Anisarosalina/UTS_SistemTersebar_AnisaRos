@@ -1,8 +1,8 @@
 <script type="text/javascript"></script>
     <style>
       body {
-        background-color: #303641;
-        color: #C1C3C6
+        background-color: #FFB6C1;
+        color: #000000
       }
     </style>
 <center>
