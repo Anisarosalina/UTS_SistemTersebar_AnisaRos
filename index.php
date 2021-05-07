@@ -4,8 +4,8 @@
           border: 4px solid red;
         }
       body {
-        padding-top: 40px;
-        padding-bottom: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
         background-color: #FFC0CB;
         color: #000000
       }
