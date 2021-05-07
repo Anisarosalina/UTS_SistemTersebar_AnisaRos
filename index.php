@@ -1,10 +1,12 @@
 <script type="text/javascript"></script>
     <style>
+      div {
+          border: 4px solid red;
       body {
         padding-top: 40px;
         padding-bottom: 40px;
-        background-color: #303641;
-        color: #C1C3C6
+        background-color: #FFC0CB;
+        color: #000000
       }
     </style>
 <center>
