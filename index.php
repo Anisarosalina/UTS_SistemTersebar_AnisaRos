@@ -1,13 +1,18 @@
 <script type="text/javascript"></script>
     <style>
-      div {
-          border: 4px solid red;
-        }
+     div {
+     width:200px;
+     height: 50px;
+   }
+   .garis_tepi1 {
+     border: 2px solid red;
+   }
       body {
         padding-top: 20px;
         padding-bottom: 20px;
         background-color: #FFC0CB;
         color: #000000
+       <div class="garis_tepi1"></div>
       }
     </style>
 <center>
