@@ -1,12 +1,5 @@
 <script type="text/javascript"></script>
     <style>
-     div {
-     width:200px;
-     height: 50px;
-   }
-   .garis_tepi1 {
-     border: 2px solid red;
-   }
       body {
         padding-top: 20px;
         padding-bottom: 20px;
@@ -16,6 +9,7 @@
       }
     </style>
 <center>
+    <table bgcolor="blue" border="1"cellspacing=”1” cellpadding=”0”>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
 <form method='post' action='' name='koneksi' enctype='multipart/form-data'>
