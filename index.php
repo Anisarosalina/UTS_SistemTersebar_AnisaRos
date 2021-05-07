@@ -10,9 +10,8 @@
 <center>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
-<h4>Upload Zip lalu klik upload</h4>
 <form method='post' action='' name='koneksi' enctype='multipart/form-data'>
- <input type='file' name='zip' value='pilih file'><br/>
+ <input type='file' name='zip' value='pilih file zip'><br/>
  <input type='submit' name='upload' value='upload' />
 </form>
 
@@ -23,7 +22,7 @@ if ($_FILES) {
     $name = $_FILES['zip']['name'];
     $zip = new ZipArchive();
     if ($zip->open($fileName)) {
-        echo "<h4>Isi Dalam File: </h4>";
+        echo "<h4>Isi File Zip: </h4>";
         for ($i = 0; $i < $zip->numFiles; $i++) {
             $stat = $zip->statIndex($i);
             echo basename($stat['name']) . "<br>";
