@@ -1,13 +1,15 @@
 <script type="text/javascript"></script>
     <style>
       body {
-        padding-top: 20px;
-        padding-bottom: 20px;
-        background-color: #FFC0CB;
-        color: #000000
-       <div class="garis_tepi1"></div>
+        background-color: #303641;
+        color: #C1C3C6
       }
     </style>
+<center>
+<table border="1" width="500">
+<tbody>
+<tr height="200"> 
+<td>
 <center>
     <table bgcolor="blue" border="1"cellspacing=”1” cellpadding=”0”>
 <h2> UTS Sister Anisa Rosalina </h2>
